@@ -1,0 +1,1 @@
+A simple Hangman game built with Python where players guess a hidden word one letter at a time. The game provides limited attempts, validates user input, and displays the current progress until the player wins or loses. This project demonstrates basic Python concepts such as loops, conditionals, strings, lists, and functions.
